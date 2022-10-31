@@ -1,2 +1,3 @@
 # HTMLTreino2
-Primeiro treino de HTML da trilha de HTML da plataforma Digital Innovation One.
+Segundo treino de HTML da trilha de HTML da plataforma Digital Innovation One.
+Desta vez, desenvolvendo habilidades com tabelas.
